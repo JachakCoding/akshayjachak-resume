@@ -1,14 +1,9 @@
 <h1 align="center">
- Awesome Resume
+ Akshay Jachak
 </h1>
-<h4 align="center">
- 专业地道的简历例句，包括个人简介，项目介绍以及 Cover Letter
-</h4>
-
 
 <h4 align="center">
   <a href="https://osjobs.net/co/">
-    海外兔小班教学帮助你高效准备面试，学员大厂率超过 50%，入职不成功不收费。
   </a>
 </h4>
 
