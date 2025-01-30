@@ -41,7 +41,6 @@ Responsibilities:
 - Handling the documentation of our standalone Password Manager and JumpCloud Protect app.
 - Working on a project to improve the Top 25 most visited articles on help center.
 - Collaborating with product owners from various departments to understand features and deliver comprehensive documentation.
-
 ### Company: Operative Media Ltd.
 #### Role: Technical writer
 Duration: 2nd November 2022 - Current
@@ -50,7 +49,6 @@ Responsibilities:
 - Collaborating with Product Owners from various departments to understand product requirements and deliver comprehensive documentation.
 - Peer-reviewing the documentation for release notes and help guides written by my colleagues.
 - Formatting and delivering the documentation in word format as online help documentation using Madcap Flare.
-  
 ### Company: Quick Heal Technologies Ltd.
 #### Role: Technical writer
 Duration: 4th January 2021-28th October 2022
@@ -61,7 +59,6 @@ Responsibilities:
 Accomplishments:
 - Wrote the online help documentation of two cloud-based products from scratch.
 - Undertook industry peer research to analyze the documentation requirements as those were first of their kind products in the organization. Successfully completed the documentation for GA release.
-  
 ### Company: Citec Engineering India Pvt. Ltd.
 #### Role: Documentation engineer
 Duration: 12th September 2016-31st December 2020
